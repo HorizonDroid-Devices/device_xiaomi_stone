@@ -16,6 +16,7 @@ $(call inherit-product, device/xiaomi/stone/device.mk)
 
 # HorizonDroid prop
 CUSTOM_BUILD_TYPE := Official
+HORIZON_MAINTAINER := Dr.Opto
 
 # Device props
 TARGET_SUPPORTS_BLUR := true
